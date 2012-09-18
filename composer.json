@@ -1,5 +1,5 @@
 {
-    "name": "maschit/BarcodeBundle",
+    "name": "maschit/barcode-bundle",
     "description": "a barcode generator for symfony2",
     "minimum-stability": "dev",
     "authors": [
