@@ -1,0 +1,14 @@
+{
+    "name": "maschit/BarcodeBundle",
+    "description": "a barcode generator for symfony2",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Mark Schmale",
+            "email": "masch@masch.it"
+        }
+    ],
+    "require": {
+
+    }
+}
